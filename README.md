@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on ... and off ... line.
 - 📫 How to reach me ... Howto, reach me ... make me understand ... dada doodoo
 
+
+Everything here is EARLY EXPERIMENTAL, so don't take it more serious than I do.
 <!---
 sgmeiner/sgmeiner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
